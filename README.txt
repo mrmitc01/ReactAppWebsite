@@ -16,6 +16,8 @@ package.json - package file listing dependencies and information
 The remaining files were primarily unedited and automatically generated
 
 
+To run the following commands, Node.js will need to be installed, which can be downloaded from: https://nodejs.org/en/
+
 To install dependencies, type the following at the prompt >:
 > npm i
 
