@@ -19,10 +19,12 @@ The remaining files were primarily unedited and automatically generated
 To run the following commands, Node.js will need to be installed, which can be downloaded from: https://nodejs.org/en/
 
 To install dependencies, type the following at the prompt >:
-> npm i
+
+\> npm i
 
 To run the source code, type the following at the prompt >:
-> npm start
+
+\> npm start
 
 View the app by opening http://localhost:3000 in a web browser
 
